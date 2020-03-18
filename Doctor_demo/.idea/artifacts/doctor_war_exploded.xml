@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="doctor:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/doctor_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="doctor" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="log4j-1.2.8" />
+          <element id="library" level="project" name="mysql-connector-java-5.0.6-bin" />
+          <element id="library" level="project" name="Jstl" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="javax.transaction" />
+          <element id="library" level="project" name="javax.servlet.jsp.jstl" />
+          <element id="library" level="project" name="websocket (3)" />
+        </element>
+      </element>
+      <element id="library" level="project" name="websocket (2)" />
+      <element id="javaee-facet-resources" facet="doctor/web/Web" />
+    </root>
+  </artifact>
+</component>

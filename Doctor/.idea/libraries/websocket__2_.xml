@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="websocket (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/doctor/web/WEB-INF/lib/websocket.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
